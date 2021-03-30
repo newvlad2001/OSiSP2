@@ -1,1 +1,6 @@
-PATH:                                                                                                    NAME:                              SIZE:     
+/etc/profile.d/cedilla-portuguese.sh cedilla-portuguese.sh 1003
+/etc/ufw/after.rules after.rules 1004
+/etc/mono/certstore/certs/Trust/ski-2130C9FB00D74E98DA87AA2AD0A72EB14031A74CE0683190E3171647E6165CC26F33CB57.cer ski-2130C9FB00D74E98DA87AA2AD0A72EB14031A74CE0683190E3171647E6165CC26F33CB57.cer 1002
+/etc/brltty/Attributes/left_right.atb left_right.atb 1009
+/etc/brltty/Input/menu.kti menu.kti 1001
+/etc/brltty/Text/ascii-basic.tti ascii-basic.tti 1004
